@@ -1,0 +1,71 @@
+.card_login {
+	height: 500px;
+	background-color: rgb(0 0 0 /40%);
+	background-image: linear-gradient(to bottom right, rgba(0, 255, 98, 0.699), rgba(0, 102, 255, 0.527));
+	border-radius: 20px;
+}
+.avatar_login {
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+	position: relative;
+	top: -65px;
+	left: calc(50% - 70px);
+	margin-bottom: 20px;
+}
+.label_login{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+}
+.card-body_login {
+	margin-top: -110px;
+}
+.form-group_login {
+	margin-top: 20px;
+}
+.form-control_login {
+	height: calc(1.5em + .75rem + 20px);
+	border-radius: 20px;
+	&:hover {
+		border: 1px solid rgba(240, 83, 201, 0.911);
+	}
+	&:focus {
+		border: 2px solid #f34898;
+	}
+}
+.btn_login {
+	margin-top: 20px;
+	border-radius: 20px;
+	background-color: rgba(240, 83, 201, 0.911);
+	color: seashell;
+	font-size: 20px;
+	font-weight: bold;
+	width: 100%;
+	&:hover {
+		background-color: #f34898;
+		color: #fff;
+		border: 1px solid #c1ceb5;
+	}
+}
+.link {
+	color: #fff;
+	&:hover{
+		color: #c1ceb5;
+	}
+}
+.icono-user_login {
+	position: absolute;
+	margin-top: 55px;
+	margin-left: -80px;
+	font-size: 30px;
+	color: rgba(240, 83, 201, 0.911);
+}
+.icono-pass_login {
+	position: absolute;
+	margin-top: 55px;
+	margin-left: -125px;
+	font-size: 30px;
+	color: rgba(240, 83, 201, 0.911);
+}

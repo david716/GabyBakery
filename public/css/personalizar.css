@@ -1,0 +1,104 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#renderCanvas {
+    width: 100%;
+    height: 100%;
+    touch-action: none;
+}
+
+canvas{
+    width: 650;
+}
+
+.no_border_fondo{
+    border: none;
+    background: none;
+}
+
+.cont{
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.lis_sabor{
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.padding_0{
+    padding: 0;
+}
+
+.sabor{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.Arequipe{
+   color: chocolate;
+}
+
+.Arequipe_de_Cafe{
+    color: #774718
+}
+
+.Chantilli{
+    color: #EEBDCD;
+}
+
+.Chocolate{
+    color: #804000;
+}
+
+.Crema_de_Queso{
+    color: #ffff66;
+}
+
+.Crema_de_Mantequilla{
+    color: #f8f32b;
+}
+
+.Ganache_de_Chocolate_Blanco{
+    color: khaki;
+}
+
+.Ganache_de_Chocolate_Negro{
+    color: #442e19;
+}
+
+.Vainilla{
+    color: #F3E5AB;
+}
+
+.Limón{
+    color: lawngreen;
+}
+
+.Naranja{
+    color: orange;
+}
+
+.Red_Velvet{
+    color: #9c0000
+}
+
+.Vainilla_Chips{
+    color: #fcfca5
+}
+
+.Maracuyá{
+    color: yellow
+}
+
+.Mermelada_de_Fresa{
+    color: #FC5A8D;
+}
+
+.Mermelada_de_Mora{
+    color: #78288C;
+}

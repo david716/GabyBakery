@@ -1,0 +1,14 @@
+.btn-reserva {
+	margin-top: 20px;
+	border-radius: 20px;
+	background-color: rgba(240, 83, 201, 0.911);
+	color: seashell;
+	font-size: 20px;
+	font-weight: bold;
+	width: 60%;
+	&:hover {
+		background-color: #f34898;
+		color: #fff;
+		border: 1px solid #c1ceb5;
+	}
+}

@@ -1,0 +1,51 @@
+.card_registro{
+    background-color: rgb(0 0 0 /40%);
+    background-image: linear-gradient(to bottom right, rgba(0, 255, 98, 0.699),  rgba(0, 102, 255, 0.527));
+    border-radius: 20px;
+}
+.avatar_registro{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    position: relative;
+    top: -65px;
+    left: calc(50% - 70px);
+    margin-bottom: 40px;
+}
+.label_registro{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+}
+.card-body_registro {
+	margin-top: -110px;
+}
+.form-control_registro {
+	height: calc(1.5em + .75rem + 20px);
+	border-radius: 20px;
+	&:hover {
+		border: 1px solid rgba(240, 83, 201, 0.911);
+	}
+	&:focus {
+		border: 2px solid #f34898;
+	}
+}
+.btn_registro {
+	margin-top: 20px;
+	border-radius: 20px;
+	background-color: rgba(240, 83, 201, 0.911);
+	color: seashell;
+	font-size: 20px;
+	font-weight: bold;
+	width: 100%;
+	&:hover {
+		background-color: #f34898;
+		color: #fff;
+		border: 1px solid #c1ceb5;
+	}
+}
+
+.card-body_login {
+	margin-top: -110px;
+}

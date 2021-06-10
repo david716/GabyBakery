@@ -1,0 +1,130 @@
+Exporter version: 2.80.1, Blender version: 2.92.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /opt/lampp/htdocs/tortas/3D/modelos/numeros/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of camera (UniversalCamera):  camara
+	processing begun of mesh:  num_0
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  9991
+		num normals        :  9991
+		num tangents       :  39964
+		num uvs            :  19982
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16896
+	processing begun of mesh:  num_1
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  8638
+		num normals        :  8638
+		num tangents       :  34552
+		num uvs            :  17276
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  14080
+	processing begun of mesh:  num_2
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  8884
+		num normals        :  8884
+		num tangents       :  35536
+		num uvs            :  17768
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  14528
+	processing begun of mesh:  num_3
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  9794
+		num normals        :  9794
+		num tangents       :  39176
+		num uvs            :  19588
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16320
+	processing begun of mesh:  num_4
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  11830
+		num normals        :  11830
+		num tangents       :  47320
+		num uvs            :  23660
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20096
+	processing begun of mesh:  num_5
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  10230
+		num normals        :  10230
+		num tangents       :  40920
+		num uvs            :  20460
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  17152
+	processing begun of mesh:  num_6
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  8583
+		num normals        :  8583
+		num tangents       :  34332
+		num uvs            :  17166
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13696
+	processing begun of mesh:  num_7
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  7366
+		num normals        :  7366
+		num tangents       :  29464
+		num uvs            :  14732
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  11456
+	processing begun of mesh:  num_8
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  10352
+		num normals        :  10352
+		num tangents       :  41408
+		num uvs            :  20704
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  17120
+	processing begun of mesh:  num_9
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  9879
+		num normals        :  9879
+		num tangents       :  39516
+		num uvs            :  19758
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16512
+	processing begun of light (POINT):  luz
+========= Writing of JSON file started =========
+	writing mesh:  num_0
+	writing mesh:  num_1
+	writing mesh:  num_2
+	writing mesh:  num_3
+	writing mesh:  num_4
+	writing mesh:  num_5
+	writing mesh:  num_6
+	writing mesh:  num_7
+	writing mesh:  num_8
+	writing mesh:  num_9
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  1 min, 53.1629 secs
